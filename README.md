@@ -29,7 +29,7 @@ to review:
  
 # Scenario
 
-At crewmeister on of our products is the absence manager. With this product 
+At crewmeister one of our products is the absence manager. With this product 
 company owners can manage sickness and vacations of employees. Some of our 
 customers want to export their employees absences to outlook. To make our 
 customers happy we decided to provide an iCal export. 
