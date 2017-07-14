@@ -12,13 +12,21 @@ Clone this repository and don't create a fork, so that other candidates
 can't copy your solution. The repository contains a scaffold for frontend
 and backend candidates including a test setup and a mocked API. You're 
 free to use whatever tools you want to use. (eg. if you're more comfortable
-with a different assertion library feel free to add it). 
+with a different assertion library feel free to add it).
 
 Whenever you're done please zip the project and send it to: 
 dev+coding-challenge@crewmeister.com
 
-We'll review your submission as soon as possible.
+We'll review your submission as soon as possible. Key-points we're going
+to review:
 
+- naming
+- tests
+- duplications
+- code consistency
+- function lengths
+- commit + commit messages
+ 
 # Scenario
 
 At crewmeister on of our products is the absence manager. With this product 
