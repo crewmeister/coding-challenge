@@ -28,12 +28,3 @@ that I can import them into outlook.
      - "#{member.name} is sick"
 - Write the ical file somewhere to disk (location is irrelevant for now)
 
-# Prerequisites
-
-1. Install Ruby
-2. `gem install bundler`
-3. `bundle install`
-
-## Running Specs
-
-`bundle exec rspec` or `bundle exec guard`
