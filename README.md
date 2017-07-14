@@ -25,7 +25,7 @@ to review:
 - duplications
 - code consistency
 - function lengths
-- commit + commit messages
+- commits + commit messages
  
 # Scenario
 
