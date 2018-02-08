@@ -19,8 +19,6 @@ RSpec.describe CmChallenge::Api do
     it { expect(absences).to all(have_key(:id)) }
     it { expect(absences).to all(have_key(:start_date)) }
     it { expect(absences).to all(have_key(:end_date)) }
-    it { expect(absences).to all(have_key(:start_fraction)) }
-    it { expect(absences).to all(have_key(:end_fraction)) }
     it { expect(absences).to all(have_key(:user_id)) }
     it { expect(absences).to all(have_key(:crew_id)) }
   end

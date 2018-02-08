@@ -25,12 +25,10 @@ describe('absences', () => {
       'createdAt',
       'crewId',
       'endDate',
-      'endFraction',
       'id',
       'memberNote',
       'rejectedAt',
       'startDate',
-      'startFraction',
       'type',
       'userId',
     ].forEach((key) => {
