@@ -28,6 +28,7 @@ to review:
 - code consistency
 - function lengths
 - commits + commit messages
+- clean code
  
 # Scenario
 
