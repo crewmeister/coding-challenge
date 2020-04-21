@@ -4,7 +4,7 @@ Hello and thanks in participating in the crewmeister coding challenge. This
 coding exercise will help us get a better feeling about your coding process.
 
 If you have any questions, we're happy to help you. Just drop us an 
-email: dev+coding-challenge@crewmeister.com
+email: challenge@crewmeister.com
 
 # Instructions
 
@@ -15,7 +15,7 @@ free to use whatever tools you want to use. (eg. if you're more comfortable
 with a different assertion library feel free to add it).
 
 Whenever you're done please zip the project and send it to: 
-dev+coding-challenge@crewmeister.com. If that doesn't work, please upload
+challenge@crewmeister.com. If that doesn't work, please upload
 the zip file to a cloud service of your liking, such as GoogleDrive, Dropbox
 or OneDrive, and send us the link.
 
