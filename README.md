@@ -29,6 +29,8 @@ to review:
 - function lengths
 - commits + commit messages
 - clean code
+
+An essential part of the challenge is also coming up with your own solutions and making reasonable assumptions about the implementation of the acceptance criteria.
  
 # Scenario
 
